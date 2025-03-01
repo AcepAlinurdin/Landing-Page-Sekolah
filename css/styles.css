@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+form input,
+form textarea {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    width: 100%;
+}
+
+button {
+    cursor: pointer;
+}
